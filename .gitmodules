@@ -1,0 +1,6 @@
+[submodule "fbcp-ili9341"]
+	path = fbcp-ili9341
+	url = https://github.com/juj/fbcp-ili9341.git
+[submodule "LCD-show"]
+	path = LCD-show
+	url = https://github.com/goodtft/LCD-show.git
