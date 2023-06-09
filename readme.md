@@ -1,6 +1,6 @@
 # Raspberry pi 3.2inch TFT display
 
-Many times, I've tried to configure my display on a `Raspberry 3b`. Fortunatly, I've found the correct answer of how to do that.
+Many times, I've tried to configure my display on a `Raspberry 3b` with retropie. Fortunatly, I've found the correct answer of how to do that.
 
 In This repo you can see what I've used to make it works.
 The drive of my screen is: `ILI9341`
