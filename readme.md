@@ -5,9 +5,14 @@ Many times, I've tried to configure my display on a `Raspberry 3b` with retropie
 In This repo you can see what I've used to make it works.
 The drive of my screen is: `ILI9341`
 
-[![screen example](./tft-screen.jpg)](https://www.amazon.com.br/waveshare-Raspberry-Resistive-Raspbian-Provided/dp/B01HPV68UM)
+[![screen example](./assets/tft-screen.jpg)](https://www.amazon.com.br/waveshare-Raspberry-Resistive-Raspbian-Provided/dp/B01HPV68UM)
 
-`Note: Mine is not the waveshare version`
+`Note: Mine is not the waveshare version, but the version below.`
+
+![my screen front side](./assets/screen-frontside.jpeg)
+![my screen back side](./assets/screen-backside.jpeg)
+![my screen package](./assets/screen-package.jpeg)
+
 
 ## 1. Install driver
 
