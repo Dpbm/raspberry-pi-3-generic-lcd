@@ -58,3 +58,8 @@ If you want more information, checks these videos:
 [![video 3](https://img.youtube.com/vi/uz4sa24C4gk/0.jpg)](https://youtu.be/uz4sa24C4gk)
 
 # NOW, JUST ENJOY :)
+
+
+# Throubleshooting
+
+Newer Raspberry Osses don't work with this script, ensure you're using the Debian Bullseye based version.
